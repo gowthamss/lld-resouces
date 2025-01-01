@@ -1,0 +1,9 @@
+Facade design pattern: https://www.youtube.com/watch?v=K4FkHVO5iac
+Proxy design pattern: https://refactoring.guru/design-patterns/proxy
+Bridge design pattern: https://refactoring.guru/design-patterns/bridge
+Cal.com to understand Adapter design pattern: https://github.com/calcom/cal.com
+Naman Bhalla LLD Github: https://github.com/Naman-Bhalla/lldSept2022/tree/master/src/main/java/designpatterns/adapter
+
+Java Type Eraser: https://www.baeldung.com/java-type-erasure
+
+ParkingLot: https://github.com/Naman-Bhalla/parkingLotJuly2022, https://github.com/scaleracademy/parkinglot/tree/jan1123
